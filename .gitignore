@@ -1,0 +1,11 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/.vs
+/packages
+/WpfApp5/bin/Debug
+/WpfApp5/obj/Debug
+/WpfApp5/obj/Release
+/MigrationBackup/3824fb48/WpfApp5
+/WpfApp5/obj
